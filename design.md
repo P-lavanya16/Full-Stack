@@ -65,6 +65,9 @@ Delete a file.
 - No auth required  
 
 ## Screenshots
-![UI 1](scr1.png)
-![UI 2](scr2.png)
-![Postman](scr3.png)
+[UI 1]<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/1619f13a-1354-4872-972a-518235ef7513" />
+
+[UI 2]<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/70ec276a-f537-4f8d-a921-6a085b980da3" />
+
+[Postman]<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/beea51f1-a416-4959-bf18-22f40da6bf6c" />
+
